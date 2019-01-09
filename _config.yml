@@ -26,7 +26,6 @@ sass:
   style:            compressed
 
 # Comments
-comments: true
 disqus_shortname:   apple423-github-io
 
 # Social
